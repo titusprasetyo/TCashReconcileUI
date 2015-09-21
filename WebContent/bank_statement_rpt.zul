@@ -1,0 +1,6 @@
+<?page title="Bank Statement Report" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="Bank Statement Report" border="normal">
+
+</window>
+</zk>

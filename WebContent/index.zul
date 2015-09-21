@@ -1,0 +1,11 @@
+<?page title="TCash Reconcile - Bank Statement Upload"?>
+<?link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"?>
+<zk>
+	<window border="normal" mode="overlapped" position="center"
+		apply="com.agit.tcash.recon.ui.controller.UploadFileController">
+		<caption image="/img/FirstWindow-24x24.png" label="Upload Bank Statement File"></caption>
+		<button label="Upload" id="btnUpload" upload="true"></button>
+		<separator />
+		<label id="message" multiline="true" />
+	</window>
+</zk>

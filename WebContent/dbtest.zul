@@ -1,0 +1,8 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+	<window title="new page title" border="normal"
+		apply="com.agit.tcash.recon.ui.test.DBTest">
+		<button label="CheckDB" id="btnTest">
+		</button>
+	</window>
+</zk>
